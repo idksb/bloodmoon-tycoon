@@ -1,4 +1,4 @@
-well its bad obfuscated but idk
+well its bad obfuscated but idc
 newer scripts will be better obfuscated.
 
 ```lua
