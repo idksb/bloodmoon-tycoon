@@ -1,3 +1,5 @@
+# MAIN SCRIPT
+### updating soon!
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BoredStuff2/bloodmoon-tycoon/main/script.lua", true))()
 ```
