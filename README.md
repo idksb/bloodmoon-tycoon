@@ -1,10 +1,10 @@
 # MAIN SCRIPT
 ### updating soon!
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BoredStuff2/bloodmoon-tycoon/main/script.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/idksb/bloodmoon-tycoon/main/script.lua", true))()
 ```
 
 # INSTANT LAGGER
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BoredStuff2/bloodmoon-tycoon/main/instantlagger", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/idksb/bloodmoon-tycoon/main/instantlagger", true))()
 ```
